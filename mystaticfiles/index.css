@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    flex-direction: column;
+    padding: 0%;
+    margin: 0;
+    background-color: bisque;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.navbar{
+    background-color: blue;
+}
+
+.nav{
+    width: 100%;
+}
+
+#about_us_info{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+#popular_games{
+    margin-top: 7%;
+}
+
+#info_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#play_log_details{
+    width: 50%;
+    margin-top: 1%;
+}
+
+.info{
+    padding: 2%;
+    width: 20%;
+}
