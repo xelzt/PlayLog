@@ -3,7 +3,9 @@ body{
     flex-direction: column;
     padding: 0%;
     margin: 0;
-    background-color: bisque;
+    background-color: #313780;
+    background-image: url("witcher3_screen.jpg");
+    color: white;
 }
 
 footer {
@@ -12,8 +14,9 @@ footer {
     width: 100%;
 }
 
-.navbar{
-    background-color: blue;
+.navbar, .navbar-brand, .nav-link{
+    background-color: #16289b;
+    color: white;
 }
 
 .nav{
